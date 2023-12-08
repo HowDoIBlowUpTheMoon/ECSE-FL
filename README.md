@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">CSE_FSL: Communication and Storage Efficient Federated Split Learning</h1>
+  <h1 align="center">ECSE-FL</h1>
 </div>
 
 ## Introduction
