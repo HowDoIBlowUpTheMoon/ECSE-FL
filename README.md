@@ -6,8 +6,6 @@
 
 Placeholder: Our ECSE-FL paper builds upon the code developed from the CSE-FL paper, noted below.
 
-We have released the source code for our paper: 
-
 ## How to run
 * Cifar
 ```
